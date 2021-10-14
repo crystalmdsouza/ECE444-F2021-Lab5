@@ -1,6 +1,21 @@
 # Hello!
 This repository is a clone of https://github.com/nelaturuk/education_pathways used for ECE444 Software Engineering at the University of Toronto.
 
+# Screenshots:
+
+Edited README.md with disclaimer:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab5/blob/styling-practice/images/ScreenshotRepository.png)
+
+End product:
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab5/blob/styling-practice/images/EPHomepage.png)
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab5/blob/styling-practice/images/EPResultsPart1.png)
+
+![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab5/blob/styling-practice/images/EPResultsPart2.png)
+
+
 # CARTE Education Pathways
 
 ## Description

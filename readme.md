@@ -15,6 +15,9 @@ End product:
 
 ![alt text](https://github.com/crystalmdsouza/ECE444-F2021-Lab5/blob/styling-practice/images/EPResultsPart2.png)
 
+Comparison with Unformatted Website
+
+The new website is a bit clearer to navigate with the new formatting. The part that sticks out the most to me is the table for the search results. When I showed my interviewee the unformatted version during Milestone 2, she noted that the descriptions of courses ran into each other, making it difficult to read. By adding table borders and making the header "sticky" so table headings stay on screen as the user scrolls, it is easier to tell which description belongs to which course and vice-versa. 
 
 # CARTE Education Pathways
 
